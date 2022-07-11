@@ -1,0 +1,4 @@
+C:\Users\admin\Source\Repos\SimpleApp\SimpleApp\SimpleApp.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+C:\Users\admin\Source\Repos\SimpleApp\SimpleApp\SimpleApp.Android\obj\Debug\100\build.props
+C:\Users\admin\Source\Repos\SimpleApp\SimpleApp\SimpleApp.Android\obj\Debug\100\adb.props
+C:\Users\admin\Source\Repos\SimpleApp\SimpleApp\SimpleApp.Android\obj\Debug\100\SimpleApp.Android.csproj.AssemblyReference.cache
